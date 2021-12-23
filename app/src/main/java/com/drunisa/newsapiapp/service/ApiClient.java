@@ -1,4 +1,4 @@
-package com.drunisa.newsapiapp;
+package com.drunisa.newsapiapp.service;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
@@ -7,10 +7,10 @@ public class ApiClient {
 
     private static Retrofit mRetrofit = null;
 
-    static Retrofit getClient() {
+    public static Retrofit getClient(String url) {
 
         mRetrofit = new Retrofit.Builder()
-                .baseUrl("https://newsapi.org/")
+                .baseUrl(url)
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

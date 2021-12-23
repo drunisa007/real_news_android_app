@@ -1,4 +1,4 @@
-package com.drunisa.newsapiapp;
+package com.drunisa.newsapiapp.util;
 
 public class Constant {
 

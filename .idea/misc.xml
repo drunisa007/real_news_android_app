@@ -4,7 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2677083333333333" />
+        <entry key="app/src/main/res/layout/app_bar_layout.xml" value="0.2111111111111111" />
         <entry key="app/src/main/res/layout/aricle_single_layout.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/layout/aricle_single_recycler_layout.xml" value="0.262037037037037" />
+        <entry key="app/src/main/res/layout/article_single_layout.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/layout/blog_reycler_single_layout.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/layout/fragment_article.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/layout/fragment_blog.xml" value="0.2677083333333333" />
+        <entry key="app/src/main/res/layout/home_layout.xml" value="0.27783452502553624" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27783452502553624" />
       </map>
     </option>
   </component>

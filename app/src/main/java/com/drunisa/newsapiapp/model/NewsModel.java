@@ -1,5 +1,6 @@
-package com.drunisa.newsapiapp;
+package com.drunisa.newsapiapp.model;
 
+import com.drunisa.newsapiapp.model.ArticleModel;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;

@@ -1,6 +1,8 @@
-package com.drunisa.newsapiapp;
+package com.drunisa.newsapiapp.model;
 
-public class ArticleModel {
+import java.io.Serializable;
+
+public class ArticleModel implements Serializable {
 
     private String title;
     private String description;
